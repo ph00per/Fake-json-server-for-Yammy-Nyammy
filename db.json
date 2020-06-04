@@ -1,14 +1,92 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "goods": [
+    {
+      "id": 1,
+      "price": 332,
+      "title": "Мороженное 'ВЗРЫВ ВКУСА'",
+      "description": "Попробуйте супер освежающее сочетание мороженного с вафельным стаканом!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/1.jpg",
+      "category": "1"
+    },
+    {
+      "id": 2,
+      "price": 512,
+      "title": "Сливочное безумие",
+      "description": "Это очень вкусно!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/2.jpg",
+      "category": "1"
+    },
+    {
+      "id": 3,
+      "price": 1512,
+      "title": "Мороженное 'Трипл'",
+      "description": "Ощутите тройное удовольствие у себя во рту!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/3.jpg",
+      "category": "1"
+    },
+    {
+      "id": 4,
+      "price": 654,
+      "title": "Мороженное 'Дабл'",
+      "description": "Ощутите двойное удовольствие у себя во рту!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/4.jpg",
+      "category": "1"
+    },
+    {
+      "id": 5,
+      "price": 765,
+      "title": "Три вафельных друга",
+      "description": "Данное мороженное обязательно удивит вас!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/5.jpg",
+      "category": "1"
+    },
+    {
+      "id": 6,
+      "price": 1705,
+      "title": "Четыре господина",
+      "description": "Нужно хотя бы раз в жизни попробовать данный деликатес.",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/6.jpg",
+      "category": "1"
+    },
+    {
+      "id": 7,
+      "price": 1242,
+      "title": "Мороженное 'Секс в подворотне'",
+      "description": "Несмотря на пугающее название, это мороженное пользуется популярностью у многих гурманов.",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/7.jpg",
+      "category": "1"
+    },
+    {
+      "id": 8,
+      "price": 842,
+      "title": "Мороженное 'Ягодный сверток'",
+      "description": "Ягоды и сливочный пломбир, что же еще нужно для счастья.",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/8.jpg",
+      "category": "1"
+    },
+    {
+      "id": 9,
+      "price": 1663,
+      "title": "Фисташковый ням",
+      "description": "Неочищенные фисташки в пломбире, что может быть оригинальнее?",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/9.jpg",
+      "category": "1"
+    },
+    {
+      "id": 10,
+      "price": 642,
+      "title": "Клубничный пломбир",
+      "description": "Вкуснее чем в супермаркете!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/10.jpg",
+      "category": "1"
+    },
+    {
+      "id": 11,
+      "price": 1731,
+      "title": "Мурье - пурье",
+      "description": "Délicieux baisée!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/11.jpg",
+      "category": "1"
+    }
+  ]
 }
