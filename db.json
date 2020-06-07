@@ -50,30 +50,6 @@
     },
     {
       "id": 7,
-      "price": 1242,
-      "title": "Мороженное 'Секс в подворотне'",
-      "description": "Несмотря на пугающее название, это мороженное пользуется популярностью у многих гурманов.",
-      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/7.jpg",
-      "category": "1"
-    },
-    {
-      "id": 8,
-      "price": 842,
-      "title": "Мороженное 'Ягодный сверток'",
-      "description": "Ягоды и сливочный пломбир, что же еще нужно для счастья.",
-      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/8.jpg",
-      "category": "1"
-    },
-    {
-      "id": 9,
-      "price": 1663,
-      "title": "Фисташковый ням",
-      "description": "Неочищенные фисташки в пломбире, что может быть оригинальнее?",
-      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/9.jpg",
-      "category": "1"
-    },
-    {
-      "id": 10,
       "price": 642,
       "title": "Клубничный пломбир",
       "description": "Вкуснее чем в супермаркете!",
@@ -81,12 +57,188 @@
       "category": "1"
     },
     {
-      "id": 11,
+      "id": 8,
       "price": 1731,
       "title": "Мурье - пурье",
       "description": "Délicieux baisée!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/11.jpg",
       "category": "1"
+    },
+      {
+      "id": 9,
+      "price": 532,
+      "title": "Набор тыквенных кексов",
+      "description": "Тыквенные нежные кексы не оставят никого равнодушным!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cupcakes/1.jpg",
+      "category": "2"
+    },
+    {
+      "id": 10,
+      "price": 249,
+      "title": "Пара кексов с изюмом",
+      "description": "Это очень вкусно!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cupcakes/2.jpg",
+      "category": "2"
+    },
+    {
+      "id": 11,
+      "price": 163,
+      "title": "Шоколадная крошка",
+      "description": "Под чаёк - самое то!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cupcakes/3.jpg",
+      "category": "2"
+    },
+    {
+      "id": 12,
+      "price": 666,
+      "title": "Пончечный кекс",
+      "description": "Люди любят поспорить о том, что же это на самом деле пончик или кекс",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cupcakes/4.jpg",
+      "category": "2"
+    },
+    {
+      "id": 13,
+      "price": 561,
+      "title": "Шершавые друзья",
+      "description": "Кексы в муке - очень вкусно!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cupcakes/5.jpg",
+      "category": "2"
+    },
+    {
+      "id": 14,
+      "price": 23,
+      "title": "Кекс из столовки",
+      "description": "Прямо как в школе!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cupcakes/8.jpg",
+      "category": "2"
+    },
+    {
+      "id": 15,
+      "price": 512,
+      "title": "Радужное безумие",
+      "description": "Печенки в радужной присыпке - удивите детей многообразием цветов!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cookies/1.jpg",
+      "category": "3"
+    },
+    {
+      "id": 16,
+      "price": 723,
+      "title": "Ореховые хрустяшки",
+      "description": "Орехи и шоколадная начинка ммм....",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cookies/2.jpg",
+      "category": "3"
+    },
+    {
+      "id": 17,
+      "price": 535,
+      "title": "Новогодние господа",
+      "description": "Прямо как из шрека!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cookies/3.jpg",
+      "category": "3"
+    },
+    {
+      "id": 18,
+      "price": 623,
+      "title": "M&MS - микс",
+      "description": "С вашими любимыми драже мэндмс",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cookies/4.jpg",
+      "category": "3"
+    },
+    {
+      "id": 19,
+      "price": 4121,
+      "title": "Новинка 'Древние'",
+      "description": "Эти печеньки хранятся у нас уже с 1841г.. Предлагаем вам попробовать вкус новой старости!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cookies/5.jpg",
+      "category": "3"
+    },
+      {
+      "id": 20,
+      "price": 741,
+      "title": "Шоколадные колупахи",
+      "description": "Приготовлены по секретному рецепту не оставят никого равнодушным!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cookies/6.jpg",
+      "category": "3"
+    },
+    {
+      "id": 21,
+      "price": 726,
+      "title": "Бисквиченье",
+      "description": "Вроде и печенье, но и бисквит!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cookies/7.jpg",
+      "category": "3"
+    },
+    {
+      "id": 22,
+      "price": 5167,
+      "title": "Премиум",
+      "description": "Возможно они дорогие и невкусные, но зато ты можешь похвастаться тем, что их купил!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cookies/9.jpg",
+      "category": "3"
+    },
+    {
+      "id": 23,
+      "price": 234,
+      "title": "Темная плиточка",
+      "description": "Классическая горька плитка шоколада 80%",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/1.jpg",
+      "category": "4"
+    },
+    {
+      "id": 24,
+      "price": 553,
+      "title": "Шоколадные шарики",
+      "description": "Вкусные и мягкие!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/2.jpg",
+      "category": "4"
+    },
+    {
+      "id": 25,
+      "price": 422,
+      "title": "Кофейное удовольствие",
+      "description": "Птичье молоко в шоколаде.",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/3.jpg",
+      "category": "4"
+    },
+    {
+      "id": 26,
+      "price": 756,
+      "title": "Бюджет-элит",
+      "description": "От нашего шоколатье с любовью!",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/4.jpg",
+      "category": "4"
+    },
+    {
+      "id": 27,
+      "price": 632,
+      "title": "Ассорти",
+      "description": "Микс. Ассорти. вкус.",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/5.jpg",
+      "category": "4"
+    },
+    {
+      "id": 28,
+      "price": 856,
+      "title": "Новогоднее",
+      "description": "С корицей и кофе.",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/6.jpg",
+      "category": "4"
+    },
+    {
+      "id": 29,
+      "price": 953,
+      "title": "Милки-милк",
+      "description": "Я устал придумывать описания.",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/7.jpg",
+      "category": "4"
+    },
+    {
+      "id": 30,
+      "price": 1242,
+      "title": "Темный микс",
+      "description": "Данный микс преобладает темным шоколадом.",
+      "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/9.jpg",
+      "category": "4"
     }
   ]
 }
