@@ -3,8 +3,8 @@
     {
       "id": 1,
       "price": 332,
-      "title": "Мороженное 'ВЗРЫВ ВКУСА'",
-      "description": "Попробуйте супер освежающее сочетание мороженного с вафельным стаканом!",
+      "title": "Мороженное 'ВКУС'",
+      "description": "Попробуйте сочетание мороженного с вафельным стаканом!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/1.jpg",
       "category": "1"
     },
