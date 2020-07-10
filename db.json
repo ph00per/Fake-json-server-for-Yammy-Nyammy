@@ -4,7 +4,7 @@
       "id": 1,
       "price": 33,
       "title": "Ice Cream 'TASTE'",
-      "description": "Try combining ice cream with a waffle glass!",
+      "description": "Try combining ice cream with a waffle!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/1.jpg",
       "category": "1"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "price": 17,
       "title": "Four masters",
-      "description": "you Should try this delicacy at least once in your life.",
+      "description": "You should try this delicacy at least once in your life.",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/6.jpg",
       "category": "1"
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "price": 6,
       "title": "Strawberry ice cream",
-      "description": "Tastier than the supermarket!",
+      "description": "Tastier than taste!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/10.jpg",
       "category": "1"
     },
@@ -68,7 +68,7 @@
       "id": 9,
       "price": 16,
       "title": "Chocolate chip",
-      "description": "Under the gulls-the very thing!",
+      "description": "It is delicious to eat with tea.",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cupcakes/3.jpg",
       "category": "2"
     },
@@ -84,14 +84,14 @@
       "id": 11,
       "price": 51,
       "title": "Rough friends",
-      "description": "muffins in flour-very tasty!",
+      "description": "Muffins in flour - very tasty!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cupcakes/5.jpg",
       "category": "2"
     },
     {
       "id": 12,
       "price": 23,
-      "title": "Canteen Cupcake",
+      "title": "Cheap Cupcake",
       "description": "Just like at school!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cupcakes/8.jpg",
       "category": "2"
@@ -187,8 +187,8 @@
     {
       "id": 24,
       "price": 62,
-      "title": "Assorted",
-      "description": "Mix. Cuts. taste.",
+      "title": "Chici-choco",
+      "description": "Tasty mmmmmm....",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/5.jpg",
       "category": "4"
     },
