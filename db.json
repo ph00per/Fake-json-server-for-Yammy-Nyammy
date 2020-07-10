@@ -2,7 +2,7 @@
   "goods": [
     {
       "id": 1,
-      "price": 332,
+      "price": 33,
       "title": "Ice Cream 'TASTE'",
       "description": "Try combining ice cream with a waffle glass!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/1.jpg",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "price": 512,
+      "price": 51,
       "title": "Cream madness",
       "description": "It's delicious!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/2.jpg",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "price": 1512,
+      "price": 15,
       "title": "Triple ice cream",
       "description": "Feel triple pleasure in your mouth!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/3.jpg",
@@ -26,7 +26,7 @@
     },
     {
       "id": 4,
-      "price": 765,
+      "price": 76,
       "title": "Three waffle friends",
       "description": "This ice cream is sure to surprise you!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/5.jpg",
@@ -34,7 +34,7 @@
     },
     {
       "id": 5,
-      "price": 1705,
+      "price": 17,
       "title": "Four masters",
       "description": "you Should try this delicacy at least once in your life.",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/6.jpg",
@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "price": 642,
+      "price": 6,
       "title": "Strawberry ice cream",
       "description": "Tastier than the supermarket!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/10.jpg",
@@ -50,7 +50,7 @@
     },
     {
       "id": 7,
-      "price": 1731,
+      "price": 173,
       "title": "Mur'e-pur'e",
       "description": "Délicieux baisée!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Icecream/11.jpg",
@@ -58,7 +58,7 @@
     },
     {
       "id": 8,
-      "price": 249,
+      "price": 24,
       "title": "A couple of raisin cupcakes",
       "description": "It's delicious!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cupcakes/2.jpg",
@@ -66,7 +66,7 @@
     },
     {
       "id": 9,
-      "price": 163,
+      "price": 16,
       "title": "Chocolate chip",
       "description": "Under the gulls-the very thing!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cupcakes/3.jpg",
@@ -82,7 +82,7 @@
     },
     {
       "id": 11,
-      "price": 561,
+      "price": 51,
       "title": "Rough friends",
       "description": "muffins in flour-very tasty!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cupcakes/5.jpg",
@@ -98,7 +98,7 @@
     },
     {
       "id": 13,
-      "price": 512,
+      "price": 52,
       "title": "Rainbow madness",
       "description": "Livers in rainbow powder-surprise children with a variety of colors!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cookies/1.jpg",
@@ -106,7 +106,7 @@
     },
     {
       "id": 14,
-      "price": 723,
+      "price": 73,
       "title": "Nutcrackers",
       "description": "Nuts and chocolate filling mmm....",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cookies/2.jpg",
@@ -114,7 +114,7 @@
     },
     {
       "id": 15,
-      "price": 535,
+      "price": 35,
       "title": "New year's gentlemen",
       "description": "Just like from Shrek!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cookies/3.jpg",
@@ -122,7 +122,7 @@
     },
     {
       "id": 16,
-      "price": 4121,
+      "price": 21,
       "title": "New 'Ancient'",
       "description": "These cookies have been stored with us since 1841.. We offer you a taste of a new old age!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cookies/5.jpg",
@@ -130,7 +130,7 @@
     },
     {
       "id": 17,
-      "price": 741,
+      "price": 71,
       "title": "Chocolate bros",
       "description": "Prepared according to a secret recipe will not leave anyone indifferent!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cookies/6.jpg",
@@ -138,7 +138,7 @@
     },
     {
       "id": 18,
-      "price": 726,
+      "price": 76,
       "title": "Sponge Cake",
       "description": "Like a cookie, but also a biscuit!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cookies/7.jpg",
@@ -146,7 +146,7 @@
     },
     {
       "id": 19,
-      "price": 5167,
+      "price": 516,
       "title": "Premium",
       "description": "They may be expensive and tasteless, but you can boast that you bought them!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Cookies/9.jpg",
@@ -154,7 +154,7 @@
     },
     {
       "id": 20,
-      "price": 234,
+      "price": 24,
       "title": "Dark bar",
       "description": "Classic bitter chocolate bar 80%",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/1.jpg",
@@ -162,7 +162,7 @@
     },
     {
       "id": 21,
-      "price": 553,
+      "price": 55,
       "title": "Chocolate balls",
       "description": "Delicious and soft!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/2.jpg",
@@ -170,7 +170,7 @@
     },
     {
       "id": 22,
-      "price": 422,
+      "price": 42,
       "title": "Coffee pleasure",
       "description": "Chocolate-covered bird's milk.",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/3.jpg",
@@ -178,7 +178,7 @@
     },
     {
       "id": 23,
-      "price": 756,
+      "price": 76,
       "title": "Budget-elite",
       "description": "From our chocolatier with love!",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/4.jpg",
@@ -186,7 +186,7 @@
     },
     {
       "id": 24,
-      "price": 632,
+      "price": 62,
       "title": "Assorted",
       "description": "Mix. Cuts. taste.",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/5.jpg",
@@ -194,15 +194,15 @@
     },
     {
       "id": 25,
-      "price": 953,
-      "title": "milky-milk",
+      "price": 95,
+      "title": "Milky-milk",
       "description": "I'm tired of making up descriptions.",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/7.jpg",
       "category": "4"
     },
     {
       "id": 26,
-      "price": 1242,
+      "price": 124,
       "title": "Dark mix",
       "description": "This mix is dominated by dark chocolate.",
       "imageURL": "https://raw.githubusercontent.com/ph00per/Fake-json-server-for-Yammy-Nyammy/master/Goods/Chocolate/9.jpg",
